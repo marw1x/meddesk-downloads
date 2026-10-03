@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"asnaan\",\"date\":\"2026-10-01T07:00:38.587Z\",\"win\":{\"version\":\"1.1.1\",\"file\":\"Asnaan-Setup-1.1.1.exe\",\"sha512\":\"YLJNFasRNGpY5sj5Z8IJndEYlycXel7N/7b+DJuD23LZ8WFIGjm9guoXDSjUzc06mME4hIhUjCj5vzpJaLpq2A==\",\"size\":90854827,\"minHost\":\"1.1.0\"},\"android\":{\"version\":\"1.1.1\",\"file\":\"Asnaan-1.1.1.apk\",\"sha512\":\"VUSbP/7NZwDMIHA/Mxzi+q0Azt79B3WJOl6CPbouHugUgF+gtTZroTb5Kf7+7BpcowULHjbl2HoL9N6UufCH1w==\",\"md5\":\"98595868437bfd3e063867f7b561e832\",\"size\":79816976,\"minHost\":\"1.1.0\"}}",
- "sig": "MEUCIQD7rGzrSxLcFPg/yMjePuub1ZpnaJkr20M54j0GGOQl4wIgJimCvyuCKoumtUHgrJcObC79B1UuKwm9DX7Mns1KXEQ="
+ "payload": "{\"product\":\"asnaan\",\"date\":\"2026-10-03T14:17:07.246Z\",\"win\":{\"version\":\"1.1.1\",\"file\":\"Asnaan-Setup-1.1.1.exe\",\"sha512\":\"YLJNFasRNGpY5sj5Z8IJndEYlycXel7N/7b+DJuD23LZ8WFIGjm9guoXDSjUzc06mME4hIhUjCj5vzpJaLpq2A==\",\"size\":90854827,\"minHost\":\"1.1.0\"},\"android\":{\"version\":\"1.1.1\",\"file\":\"Asnaan-1.1.1.apk\",\"sha512\":\"VUSbP/7NZwDMIHA/Mxzi+q0Azt79B3WJOl6CPbouHugUgF+gtTZroTb5Kf7+7BpcowULHjbl2HoL9N6UufCH1w==\",\"md5\":\"98595868437bfd3e063867f7b561e832\",\"size\":79816976,\"minHost\":\"1.1.0\"}}",
+ "sig": "MEUCIQDQeQEN6MDquwdPkkv+gcYcZwHFQX9wdqcQQ9n5eE2MWwIgH5bJfy4anqJGTpA8o8Tqk97L86p9Mw1CeGmBsIL1sAA="
 }
