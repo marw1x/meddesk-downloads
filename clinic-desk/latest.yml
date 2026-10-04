@@ -1,8 +1,8 @@
-version: 1.5.1
+version: 1.6.0
 files:
-  - url: ClinicDesk-Setup-1.5.1.exe
-    sha512: uw7JPnw9S8wqSA4h17GNUWfzf+9d+84pVqCJgCfTbrrAvaLqtZHXW0guxOIdkLV4fByD45fvHtX/tghaj1noyg==
-    size: 84707549
-path: ClinicDesk-Setup-1.5.1.exe
-sha512: uw7JPnw9S8wqSA4h17GNUWfzf+9d+84pVqCJgCfTbrrAvaLqtZHXW0guxOIdkLV4fByD45fvHtX/tghaj1noyg==
-releaseDate: '2026-10-03T14:17:08.254Z'
+  - url: ClinicDesk-Setup-1.6.0.exe
+    sha512: WC76fgedB8aeEpUGaXz3DmECSZUb9MbA6UaJWTPy/pZwxulB7Q3HkkYg8Vq/cUtEK7N75z7sDXSSqwx2mmpxrw==
+    size: 85019551
+path: ClinicDesk-Setup-1.6.0.exe
+sha512: WC76fgedB8aeEpUGaXz3DmECSZUb9MbA6UaJWTPy/pZwxulB7Q3HkkYg8Vq/cUtEK7N75z7sDXSSqwx2mmpxrw==
+releaseDate: '2026-10-04T18:09:32.058Z'
