@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"gynodesk\",\"date\":\"2026-10-06T05:34:42.579Z\",\"win\":{\"version\":\"1.0.38\",\"file\":\"GynoDesk-Setup-1.0.38.exe\",\"sha512\":\"yYeLbNPlQBBDK9DNep3uNjXKdHAWo2XXzmtxI3uSy2Ona0f4Xy38RjgBh+pBoTV2mqDVkNMhijd4Nx9vKWpGHw==\",\"size\":103504925,\"minHost\":\"1.0.35\"},\"android\":{\"version\":\"1.0.40\",\"file\":\"GynoDesk-1.0.40.apk\",\"sha512\":\"UbrZ0crJVYlm26IJjPJmVsWpTAq/AFnSvtgJvlq9epthqJYtTt+qYQfzJd7jBbGtBhVS512JZuQ2zTf7AzA8CQ==\",\"md5\":\"5f86e4ade57b3b908c2de7ff21a56ac4\",\"size\":25785298,\"minHost\":\"1.0.35\"}}",
- "sig": "MEYCIQDnuvJrIN2V9y84lVMCLINXFTCqh3KjBpn3aNZCmYAT9wIhANxdIZJ/WF5pfkquEZFdq768Qrr7EO4fX93Q3Qafc3Qz"
+ "payload": "{\"product\":\"gynodesk\",\"date\":\"2026-10-06T05:34:41.673Z\",\"win\":{\"version\":\"1.0.40\",\"file\":\"GynoDesk-Setup-1.0.40.exe\",\"sha512\":\"oahjtrtMO4FMSJfQ570TumOWyTh80gP59jtWlJuEE1qKzXa+K1XLNt/neqxVzYDsnOQZlPHWmKtuoGsND5iZCg==\",\"size\":103530194,\"minHost\":\"1.0.35\"},\"android\":{\"version\":\"1.0.40\",\"file\":\"GynoDesk-1.0.40.apk\",\"sha512\":\"UbrZ0crJVYlm26IJjPJmVsWpTAq/AFnSvtgJvlq9epthqJYtTt+qYQfzJd7jBbGtBhVS512JZuQ2zTf7AzA8CQ==\",\"md5\":\"5f86e4ade57b3b908c2de7ff21a56ac4\",\"size\":25785298,\"minHost\":\"1.0.35\"}}",
+ "sig": "MEYCIQDymhW4dXJjViP3Bp0o7BxweETOlVtlLkLZ/FeovxNJLgIhAKJF2TvO6nJMIomJrCwoq/hrnh5/wI98ajkGlcPnXYzI"
 }
