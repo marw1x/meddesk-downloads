@@ -1,8 +1,8 @@
-version: 1.1.1
+version: 1.1.2
 files:
-  - url: RayDesk-Setup-1.1.1.exe
-    sha512: cWnMnKrtHIM6gxqW++lQPX1IAS9Ey1TPnaHT699dnpw5UegLGp406c1lgLCdhxmRAiceQC1PVx2DQH3WFeegQg==
-    size: 83413778
-path: RayDesk-Setup-1.1.1.exe
-sha512: cWnMnKrtHIM6gxqW++lQPX1IAS9Ey1TPnaHT699dnpw5UegLGp406c1lgLCdhxmRAiceQC1PVx2DQH3WFeegQg==
-releaseDate: '2026-10-03T14:17:08.539Z'
+  - url: RayDesk-Setup-1.1.2.exe
+    sha512: xYAjrC169YoCfbIaI9JShJk5mieH8AH+27A6+55uPCQiRtcbNuJLj4Z8HGqZpfbUWm5e86nBVtOwshDAIfAmdQ==
+    size: 83414157
+path: RayDesk-Setup-1.1.2.exe
+sha512: xYAjrC169YoCfbIaI9JShJk5mieH8AH+27A6+55uPCQiRtcbNuJLj4Z8HGqZpfbUWm5e86nBVtOwshDAIfAmdQ==
+releaseDate: '2026-10-06T05:34:42.216Z'

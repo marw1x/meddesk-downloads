@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"raydesk\",\"date\":\"2026-10-03T14:17:08.539Z\",\"win\":{\"version\":\"1.1.1\",\"file\":\"RayDesk-Setup-1.1.1.exe\",\"sha512\":\"cWnMnKrtHIM6gxqW++lQPX1IAS9Ey1TPnaHT699dnpw5UegLGp406c1lgLCdhxmRAiceQC1PVx2DQH3WFeegQg==\",\"size\":83413778,\"minHost\":\"1.1.0\"},\"android\":{\"version\":\"1.1.1\",\"file\":\"RayDesk-1.1.1.apk\",\"sha512\":\"58EcGhWUZupXZZAEDJU8JOjG2zB1BmMGrtiYBqDtdT6S82dtcgRXwyFslklHwqJfWRWqXe1GE7gOXD3zLS7chw==\",\"md5\":\"1decb79a9519a7895b1f8ed058d4b5fb\",\"size\":71788643,\"minHost\":\"1.1.0\"}}",
- "sig": "MEYCIQDnKdCF71AxByRyinhA/niFx02GO1fZL8VWUQDl5qmYUAIhAK8g0I76mPuwG/g8bgi1Q3nYxEuXq/QQ+XwPAP2uLMla"
+ "payload": "{\"product\":\"raydesk\",\"date\":\"2026-10-06T05:34:42.216Z\",\"win\":{\"version\":\"1.1.2\",\"file\":\"RayDesk-Setup-1.1.2.exe\",\"sha512\":\"xYAjrC169YoCfbIaI9JShJk5mieH8AH+27A6+55uPCQiRtcbNuJLj4Z8HGqZpfbUWm5e86nBVtOwshDAIfAmdQ==\",\"size\":83414157,\"minHost\":\"1.1.0\"},\"android\":{\"version\":\"1.1.1\",\"file\":\"RayDesk-1.1.1.apk\",\"sha512\":\"58EcGhWUZupXZZAEDJU8JOjG2zB1BmMGrtiYBqDtdT6S82dtcgRXwyFslklHwqJfWRWqXe1GE7gOXD3zLS7chw==\",\"md5\":\"1decb79a9519a7895b1f8ed058d4b5fb\",\"size\":71788643,\"minHost\":\"1.1.0\"}}",
+ "sig": "MEUCIQDg81K6VBBTsozjHPpz0j8qXS/swQiodGYHZ3wXkBZWvQIgXtvJuASlR7YhZXPFH705kL9wfYFwjJ9tJ/ALVICIS5s="
 }
