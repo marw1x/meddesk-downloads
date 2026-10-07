@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"clinic-desk\",\"date\":\"2026-10-06T05:34:41.974Z\",\"win\":{\"version\":\"1.6.1\",\"file\":\"ClinicDesk-Setup-1.6.1.exe\",\"sha512\":\"9F+QVgg6IKoZaaI1MHbRWnI+h9Wfr2qUl3dDeCYCgOgjIhBPMU0oO3B2kfqjTQMeQaWPLB7XyzzIqn+rcsjUWQ==\",\"size\":85019957,\"minHost\":\"1.6.0\"}}",
- "sig": "MEQCICCTkRwGtv5nT9vBuOBPz8Mvkp2sq58oU1XBB7i5VcXtAiBhSyH8UymCC7nzY1WiKBB0+krT8m6R3fnwHNVLIPEwGQ=="
+ "payload": "{\"product\":\"clinic-desk\",\"date\":\"2026-10-07T04:41:46.421Z\",\"win\":{\"version\":\"1.6.2\",\"file\":\"ClinicDesk-Setup-1.6.2.exe\",\"sha512\":\"Rkd3sqzmFtL6Eyz+Vd6fkF62LffJc+ZpA50plUUWaHd6aiZ7QZXDcdRi6q9Ll6nvfrWJ8bsoP8IqDnrJa8F40Q==\",\"size\":85026212,\"minHost\":\"1.6.0\"}}",
+ "sig": "MEUCIQCni5sHfF96X5Brltga+PMtBHLr1h94i51iAQlYGUGwpgIgQlimD4g4+vtu/J2QLQjK5pmUhFBDUAo0ozWjfxoZtG0="
 }
