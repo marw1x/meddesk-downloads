@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"asnaan\",\"date\":\"2026-10-09T19:35:04.481Z\",\"win\":{\"version\":\"1.2.1\",\"file\":\"Asnaan-Setup-1.2.1.exe\",\"sha512\":\"6rsoGT1pC/NZOpJjTknZGHI650SbzmNG7zVV9fw9NbCZPpDqamIjx4pPCgtn/N72el/5gnFNEcLOXljosoKqDg==\",\"size\":90903392,\"minHost\":\"1.2.0\"},\"android\":{\"version\":\"1.2.1\",\"file\":\"Asnaan-1.2.1.apk\",\"sha512\":\"LK1++M2h6GunANnOgaW8rgvbLkW6jujRRGfFqIT7RWO6xq2bJhbFcRaFh5DOHNOUgMbGOXALaDpUoU3I0hYyJw==\",\"md5\":\"ee9c8df50fda047caa15ce9109542284\",\"size\":80283120,\"minHost\":\"1.2.0\"}}",
- "sig": "MEUCIB7fVSLhZ8gUPOIYAZeW5Ex1qgaWTsZUyapsRBUj9v/NAiEA2jBqLXsvgdDX0i6LZVbxFrMcSWh0K3k+LUc+sluw8sY="
+ "payload": "{\"product\":\"asnaan\",\"date\":\"2026-10-10T21:46:21.424Z\",\"win\":{\"version\":\"1.2.2\",\"file\":\"Asnaan-Setup-1.2.2.exe\",\"sha512\":\"wr2NmSDiIxp08UBZ6IB/LxD8VZO2b3KRQWxPzLhewICXOQQ/QeN6uq/3vmJoEOIVynqR8vWOtA/EE9vpjyiShw==\",\"size\":103386457,\"minHost\":\"1.2.0\"},\"android\":{\"version\":\"1.2.2\",\"file\":\"Asnaan-1.2.2.apk\",\"sha512\":\"Ed4cps2s+hiEv2i5uHZ+qySyZcjY0z2p0p5+UiOxT2L9h2ZYx1A1lmHtERQz52TsJntjI94wgaXmLL704vTj8A==\",\"md5\":\"5bfaf8aec9c928c1b6f7a447eb5624e2\",\"size\":87443969,\"minHost\":\"1.2.0\"}}",
+ "sig": "MEUCID+cOyarZdWOz96+TS4RHpUp4/hZgeCn9NLxhmXK7H/EAiEAqt6fV/S4uSL+PRa0W2OdtOsetWbLYuVegpP2Iq08L1g="
 }
