@@ -1,8 +1,8 @@
-version: 1.0.41
+version: 1.0.42
 files:
-  - url: GynoDesk-Setup-1.0.41.exe
-    sha512: 3m0rH2RlGtkXwraJPwQrZNXZMi9+gfjPXBwOzqsGKc/A064WK+G+Juxplfgk+aE284GTapua3Zw1XwpuVnKH5A==
-    size: 103534117
-path: GynoDesk-Setup-1.0.41.exe
-sha512: 3m0rH2RlGtkXwraJPwQrZNXZMi9+gfjPXBwOzqsGKc/A064WK+G+Juxplfgk+aE284GTapua3Zw1XwpuVnKH5A==
-releaseDate: '2026-10-07T04:41:46.102Z'
+  - url: GynoDesk-Setup-1.0.42.exe
+    sha512: xlBGGR49JFLUw6E7PeNz229SNzDhWx40oeyinl5hKAYjSJYpjuOLnhrdKrhJkV4Rq5XoK5Rm5UJc9jJ/6s4i8A==
+    size: 96142939
+path: GynoDesk-Setup-1.0.42.exe
+sha512: xlBGGR49JFLUw6E7PeNz229SNzDhWx40oeyinl5hKAYjSJYpjuOLnhrdKrhJkV4Rq5XoK5Rm5UJc9jJ/6s4i8A==
+releaseDate: '2026-10-10T13:50:10.707Z'
