@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"clinic-desk\",\"date\":\"2026-10-10T23:20:55.799Z\",\"win\":{\"version\":\"1.8.1\",\"file\":\"ClinicDesk-Setup-1.8.1.exe\",\"sha512\":\"xVj5+8NczpJczwDRpx3tjx2IwL7GPCGowNWdaB/5gWhinh/2j+uDWIGE2wdytsWgzoTz3obaTtnKG3Df4/38Yg==\",\"size\":89791610,\"minHost\":\"1.8.0\"},\"android\":{\"version\":\"1.8.1\",\"file\":\"ClinicDesk-1.8.1.apk\",\"sha512\":\"GoGwsYdrdvmR7T4qUmQyBjlk+2uxoEVRhTmU+VqIoc3AgNJy7NjMP6do8tNZC/e4lBd1K3TGjlhrYBwxkhuY7g==\",\"md5\":\"67c3397a035623805ba18730cfac67ab\",\"size\":10306560,\"minHost\":\"1.8.0\"}}",
- "sig": "MEUCIQD7fyWCWi4MYdSi1LfhG8Y+Wm74KpAgv/a8xxkVOVxfCgIgJhWNo5Lq9d2UNVs6bxZZkw/QfTHl2YKAxjPzSDmxCmE="
+ "payload": "{\"product\":\"clinic-desk\",\"date\":\"2026-10-11T02:38:59.537Z\",\"win\":{\"version\":\"1.8.2\",\"file\":\"ClinicDesk-Setup-1.8.2.exe\",\"sha512\":\"XjEpQ1ydNcSI9eWosoA1yLlE0W1mRB68TLr81RexS59UpPYGN07IHWSwRT0k+gXHFUllUM/COUQEFy/+135KCQ==\",\"size\":89793912,\"minHost\":\"1.8.0\"},\"android\":{\"version\":\"1.8.2\",\"file\":\"ClinicDesk-1.8.2.apk\",\"sha512\":\"3L2B+cI8yvPIu6D/moTVRY6WrC79ExaLe/iOXULIbxA2yDtra2Wzo4/dW+tlDo983OKjBX3Xi+lH12Zk0PUItQ==\",\"md5\":\"d98080a1d1ee157c57a44f823792c7ba\",\"size\":10308483,\"minHost\":\"1.8.0\"}}",
+ "sig": "MEYCIQD7gcqLJfYZqCTknue6N24ETWo63nXSCkkBcxQWSN8FfQIhAL+NRzS6OtdHzb/5OdxjY+Pc42pHYIzwanYCusFFYXaW"
 }
