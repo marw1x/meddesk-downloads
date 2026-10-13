@@ -1,8 +1,8 @@
-version: 1.2.3
+version: 1.2.4
 files:
-  - url: Asnaan-Setup-1.2.3.exe
-    sha512: VyPj4RmhpAlUbeEKQU27+dFZn6XSfvgO97e9Yquqc+sbha6hz5sFxZqMGns/qQ2yR+mPU1kdTQ/MoHgQE+qIAw==
-    size: 103390291
-path: Asnaan-Setup-1.2.3.exe
-sha512: VyPj4RmhpAlUbeEKQU27+dFZn6XSfvgO97e9Yquqc+sbha6hz5sFxZqMGns/qQ2yR+mPU1kdTQ/MoHgQE+qIAw==
-releaseDate: '2026-10-11T02:38:58.548Z'
+  - url: Asnaan-Setup-1.2.4.exe
+    sha512: sXoUS+gjy1BX45TcLAboinelL4Z9rrv2RMSUJWxRZnz76XdHWvtOM62uOOo/43YSjhPOIhlJMZ6k+UzD3hkHQQ==
+    size: 103393871
+path: Asnaan-Setup-1.2.4.exe
+sha512: sXoUS+gjy1BX45TcLAboinelL4Z9rrv2RMSUJWxRZnz76XdHWvtOM62uOOo/43YSjhPOIhlJMZ6k+UzD3hkHQQ==
+releaseDate: '2026-10-13T14:10:37.545Z'
